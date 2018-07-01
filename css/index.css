@@ -4,6 +4,10 @@ body {
 	margin: 50px 0 0 0;
 }
 
+h1, h2 {
+	color: #006400;
+}
+
 /*Header*/
 header {
 	margin: 50px auto;
