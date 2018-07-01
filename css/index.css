@@ -1,7 +1,7 @@
 body {
 	font-family: 'Montserrat', sans-serif;
 	color: #505050;
-	margin: 50px 0;
+	margin: 50px 0 0 0;
 }
 
 /*Header*/
@@ -86,7 +86,7 @@ section h3 {
 	}
 
 	aside {
-		width: 300px;
+		width: 350px;
 	}
 	aside ul {
 		padding: 0;
